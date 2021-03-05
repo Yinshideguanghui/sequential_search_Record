@@ -1,0 +1,2 @@
+# sequential_search_Record
+Sequential search for list_simply_linked_no_remembering
